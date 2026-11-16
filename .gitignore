@@ -430,3 +430,6 @@ build/
 *.exe
 .vscode/
 results/diag_out.txt
+
+# Personal viva-prep lecture notes (not part of the project)
+documentation.md
